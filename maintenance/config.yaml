@@ -1,0 +1,173 @@
+# 镜像源配置
+mirrors:
+  - name: "GitHub Release"
+    url_template: "{url}"
+    check_availability: false
+  - name: "镜像加速1 (gh-proxy.org)"
+    url_template: "https://gh-proxy.org/{url}"
+    check_availability: true
+  - name: "镜像加速2 (hk.gh-proxy.org)"
+    url_template: "https://hk.gh-proxy.org/{url}"
+    check_availability: true
+  - name: "镜像加速3 (cdn.gh-proxy.org)"
+    url_template: "https://cdn.gh-proxy.org/{url}"
+    check_availability: true
+
+# 应用列表
+apps:
+  # Android
+  - id: "clash-meta-android"
+    name: "Clash Meta for Android"
+    repo: "MetaCubeX/ClashMetaForAndroid"
+    prerelease: true
+    asset_filter: "universal-release.apk"
+    target_files:
+      - path: "zh-CN/android/clash-meta-for-android.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/android/clash-meta-for-android.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "v2rayng-android"
+    name: "v2rayNG"
+    repo: "2dust/v2rayNG"
+    prerelease: false
+    asset_filter: "v2rayNG_.*_universal.apk"
+    target_files:
+      - path: "zh-CN/android/v2rayng.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/android/v2rayng.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "surfboard-android"
+    name: "Surfboard"
+    repo: "getsurfboard/surfboard"
+    prerelease: false
+    asset_filter: "mobile-universal-release.apk"
+    target_files:
+      - path: "zh-CN/android/surfboard.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/android/surfboard.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "sing-box-android"
+    name: "sing-box (Android)"
+    repo: "SagerNet/sing-box"
+    prerelease: false
+    asset_filter: "SFA-.*-universal.apk"
+    target_files:
+      - path: "zh-CN/android/sing-box.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/android/sing-box.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  # Windows
+  - id: "v2rayn-windows"
+    name: "v2rayN"
+    repo: "2dust/v2rayN"
+    prerelease: false
+    asset_filter: "windows-64.zip"
+    target_files:
+      - path: "zh-CN/windows/v2rayn.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/windows/v2rayn.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "netch-windows"
+    name: "Netch"
+    repo: "netchx/netch"
+    prerelease: false
+    asset_filter: "Netch.7z"
+    target_files:
+      - path: "zh-CN/windows/netch.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/windows/netch.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "clash-verge-windows"
+    name: "Clash Verge (Windows)"
+    repo: "clash-verge-rev/clash-verge-rev"
+    prerelease: false
+    asset_filter: "x64-setup.exe"
+    target_files:
+      - path: "zh-CN/windows/clash-verge.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/windows/clash-verge.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  # macOS
+  - id: "clash-verge-macos-intel"
+    name: "Clash Verge (macOS Intel)"
+    repo: "clash-verge-rev/clash-verge-rev"
+    prerelease: false
+    asset_filter: "x64.dmg"
+    target_files:
+      - path: "zh-CN/macos/clash-verge.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          link: "<!-- LINK_INTEL_START -->{}<!-- LINK_INTEL_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+      - path: "en-US/macos/clash-verge.md"
+        markers:
+          version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
+          link: "<!-- LINK_INTEL_START -->{}<!-- LINK_INTEL_END -->"
+          last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
+
+  - id: "clash-verge-macos-arm"
+    name: "Clash Verge (macOS ARM)"
+    repo: "clash-verge-rev/clash-verge-rev"
+    prerelease: false
+    asset_filter: "aarch64.dmg"
+    target_files:
+      - path: "zh-CN/macos/clash-verge.md"
+        markers:
+          link: "<!-- LINK_ARM_START -->{}<!-- LINK_ARM_END -->"
+      - path: "en-US/macos/clash-verge.md"
+        markers:
+          link: "<!-- LINK_ARM_START -->{}<!-- LINK_ARM_END -->"

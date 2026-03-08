@@ -39,11 +39,16 @@
 
 > ⚠️ **Important Notice**: Surfboard is a paid application. Please purchase through legitimate channels to support the developers.
 
-| Download Source | Version | Description |
-|----------------|---------|-------------|
-| 🏠 GitHub Release | 2.24.5 | [Official Release](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 Mirror Accelerator 1 | 2.24.5 | [Accelerated Download](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
-| 🚀 Mirror Accelerator 2 | 2.24.5 | [Backup Link](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk) |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | mobile-2.28.0 | [下载链接](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | mobile-2.28.0 | [下载链接](https://gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | mobile-2.28.0 | [下载链接](https://hk.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | mobile-2.28.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 📱 App Stores
 
@@ -377,4 +382,4 @@ tcp-connection = true
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🏄 Compatible Version: Surfboard 2.24.5
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | 🏄 Compatible Version: Surfboard <!-- VERSION_START -->mobile-2.28.0<!-- VERSION_END -->

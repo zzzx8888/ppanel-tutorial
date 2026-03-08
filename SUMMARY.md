@@ -20,7 +20,7 @@ en-US:
         path: en-US/windows/netch.md
         icon: zh-CN/windows/netch.png
         updated_at: 2025-07-10
-  - title: macOS
+  - title: macOS/苹果电脑
     path: en-US/macos/README.md
     subItems:
       - title: Surge Pro
@@ -35,7 +35,7 @@ en-US:
         path: en-US/macos/clashx-pro.md
         icon: zh-CN/macos/clash.png
         updated_at: 2025-07-10
-  - title: Android
+  - title: Android/安卓设备
     path: zh-CN/android/README.md
     subItems:
       - title: v2rayNG
@@ -54,7 +54,7 @@ en-US:
         path: en-US/android/sing-box.md
         icon: zh-CN/android/sing-box.png
         updated_at: 2025-07-10
-  - title: iOS / iPadOS
+  - title: iOS/iPadOS/苹果手机
     path: zh-CN/ios-ipados/README.md
     subItems:
       - title: Surge
@@ -77,7 +77,7 @@ en-US:
         path: en-US/ios-ipados/quantumult.md
         icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2025-07-10
-  - title: Router
+  - title: Router/路由器
     path: en-US/router.md
   
 zh-CN:
@@ -100,7 +100,7 @@ zh-CN:
         path: zh-CN/windows/netch.md
         icon: zh-CN/windows/netch.png
         updated_at: 2025-07-10
-  - title: macOS
+  - title: macOS/苹果电脑
     path: zh-CN/macos/README.md
     subItems:
       - title: Surge Pro
@@ -115,7 +115,7 @@ zh-CN:
         path: zh-CN/macos/clashx-pro.md
         icon: zh-CN/windows/clash.png
         updated_at: 2025-07-10
-  - title: Android
+  - title: Android/安卓设备
     path: zh-CN/android/README.md
     subItems:
       - title: v2rayNG
@@ -134,7 +134,7 @@ zh-CN:
         path: zh-CN/android/sing-box.md
         icon: zh-CN/android/sing-box.png
         updated_at: 2025-07-10
-  - title: iOS / iPadOS
+  - title: iOS/iPadOS/苹果手机
     path: zh-CN/ios-ipados/README.md
     subItems:
       - title: Surge
@@ -157,5 +157,5 @@ zh-CN:
         path: zh-CN/ios-ipados/quantumult.md
         icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2025-07-10
-  - title: Router
+  - title: Router/路由器
     path: zh-CN/router.md

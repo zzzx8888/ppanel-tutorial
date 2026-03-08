@@ -12,11 +12,10 @@
 
 ## Download
 
-[Download Address 1](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
-
-[Download Address 2](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
-
-[Download Address 3](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+| Processor Type | Download Link | Compatible Devices |
+|-----------|----------|----------|
+| 🔥 Apple Silicon | [aarch64.dmg](<!-- LINK_ARM_START -->https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_aarch64.dmg<!-- LINK_ARM_END -->) | M1/M2 Mac |
+| 💻 Intel x64 | [x64.dmg](<!-- LINK_INTEL_START -->https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64.dmg<!-- LINK_INTEL_END -->) | Intel Mac |
 
 
 
@@ -45,4 +44,4 @@ Starting from macOS 10.15, due to enhanced system security, you may receive "Dev
 ![图八](Clash-Verge-08.png)
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚔️ Applicable Version: Clash Verge 1.7.7
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚔️ Applicable Version: Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->

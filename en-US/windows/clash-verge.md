@@ -30,15 +30,20 @@
 
 ### 🌟 Main Download Sources
 
-| Download Source | Type | Speed | Recommendation |
-|----------------|------|-------|----------------|
-| [📦 Official GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Official | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [🚀 Mirror Accelerated](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Mirror | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [🔗 Backup Link](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | Mirror | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | v2.4.6 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v2.4.6 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v2.4.6 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v2.4.6 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 Version Information
 
-- **Current Version**: v1.7.7
+- **Current Version**: <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->
 - **File Size**: ~80MB
 - **File Type**: Windows Installer (.exe)
 - **Digital Signature**: ✅ Signed
@@ -185,4 +190,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Compatible Version: Clash Verge v1.7.7+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->+

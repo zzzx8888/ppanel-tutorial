@@ -41,8 +41,8 @@
 
 | 处理器类型 | 下载链接 | 适用设备 |
 |-----------|----------|----------|
-| 🔥 Apple Silicon | [aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | M1/M2 Mac |
-| 💻 Intel x64 | [x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | Intel Mac |
+| 🔥 Apple Silicon | [aarch64.dmg](<!-- LINK_ARM_START -->https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_aarch64.dmg<!-- LINK_ARM_END -->) | M1/M2 Mac |
+| 💻 Intel x64 | [x64.dmg](<!-- LINK_INTEL_START -->https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64.dmg<!-- LINK_INTEL_END -->) | Intel Mac |
 
 #### 🚀 加速下载
 
@@ -336,4 +336,4 @@ A: 日志查看：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | ⚔️ 适用版本：Clash Verge 1.7.7
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->

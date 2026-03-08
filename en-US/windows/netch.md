@@ -36,15 +36,20 @@
 
 ### 🌟 Download Source Selection
 
-| Download Source | Type | Stability | Recommendation |
-|----------------|------|-----------|----------------|
-| [🚀 Mirror Acceleration 1](https://git.886.be/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | Mirror Source | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ Mirror Acceleration 2](https://gh.xxooo.cf/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | Mirror Source | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 Official GitHub](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | Official Source | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | 1.9.7 | [下载链接](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 1.9.7 | [下载链接](https://gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 1.9.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 1.9.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 Version Information
 
-- **Current Version**: v1.9.7
+- **Current Version**: v<!-- VERSION_START -->1.9.7<!-- VERSION_END -->
 - **File Format**: 7z compressed package
 - **File Size**: About 25MB
 - **Installation**: Portable, no installation required
@@ -211,4 +216,4 @@ A: Optimization suggestions:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🎮 Applicable Version: Netch 1.9.7
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | 🎮 Applicable Version: Netch <!-- VERSION_START -->1.9.7<!-- VERSION_END -->

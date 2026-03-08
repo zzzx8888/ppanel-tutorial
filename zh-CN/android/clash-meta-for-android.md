@@ -41,18 +41,22 @@
 
 > ⚠️ **下载提醒**：请从官方 GitHub Release 页面下载最新版本
 
-| 下载源 | 版本 | 说明 |
-|--------|------|------|
-| 🏠 GitHub Release | 2.11.23-alpha | [官方发布](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) |
-| 🚀 镜像加速1 | 2.11.23-alpha | [加速下载](https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) |
-| 🚀 镜像加速2 | 2.11.23-alpha | [备用链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) |
-|🚀 镜像加速3 | 2.11.23-alpha | [备用链接](https://cdn.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | Prerelease-alpha | [下载链接](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | Prerelease-alpha | [下载链接](https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | Prerelease-alpha | [下载链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | Prerelease-alpha | [下载链接](https://cdn.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.23-alpha-universal-release.apk) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 🛠️ 安装步骤
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 `cmfa-2.11.6-alpha-universal-release.apk`
+   - 下载 `<!-- FILENAME_START -->cmfa-2.11.23-alpha-universal-release.apk<!-- FILENAME_END -->`
 
 2. **允许安装**
    - 设置 → 安全 → 开启"未知来源"
@@ -219,4 +223,4 @@ A: 解决方案：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | ⚔️ 适用版本：Clash Meta for Android 2.11.6-alpha
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->

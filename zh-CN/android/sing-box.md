@@ -53,11 +53,16 @@
 
 > 📌 **版本说明**：sing-box 提供 Android 版本叫做 SFA (sing-box for Android)
 
-| 下载源 | 版本     | 文件名                                                                                                                 |
-|--------|--------|---------------------------------------------------------------------------------------------------------------------|
-| 🏠 GitHub Release | 1.12.4 | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
-| 🚀 镜像加速1 | 1.12.4 | [加速下载](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)  |
-| 🚀 镜像加速2 | 1.12.4 | [备用链接](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | v1.13.2 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.13.2/SFA-1.13.2-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v1.13.2 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.2/SFA-1.13.2-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v1.13.2 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.2/SFA-1.13.2-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v1.13.2 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.2/SFA-1.13.2-legacy-android-5-universal.apk) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 🛠️ 安装指南
 
@@ -67,7 +72,7 @@
 
 2. **下载安装**
    - 选择合适的下载源
-   - 下载 APK 文件到设备
+   - 下载 `<!-- FILENAME_START -->SFA-1.13.2-legacy-android-5-universal.apk<!-- FILENAME_END -->` 文件到设备
    - 点击文件开始安装
 
 3. **权限授予**
@@ -280,4 +285,4 @@ A: 排查步骤：
 
 ---
 
-> 📅 最后更新：2025年8月31日 | 📦 适用版本：sing-box 1.12.4 (SFA)
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.13.2<!-- VERSION_END --> (SFA)

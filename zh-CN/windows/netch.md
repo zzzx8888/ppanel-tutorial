@@ -36,15 +36,20 @@
 
 ### 🌟 下载源选择
 
-| 下载源 | 类型 | 稳定性 | 推荐度 |
-|-------|------|--------|--------|
-| [🚀 镜像加速 1](https://git.886.be/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ 镜像加速 2](https://gh.xxooo.cf/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 镜像源 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 官方 GitHub](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | 1.9.7 | [下载链接](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 1.9.7 | [下载链接](https://gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 1.9.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 1.9.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 版本信息
 
-- **当前版本**：v1.9.7
+- **当前版本**：v<!-- VERSION_START -->1.9.7<!-- VERSION_END -->
 - **文件格式**：7z 压缩包
 - **文件大小**：约 25MB
 - **安装方式**：绿色免安装
@@ -211,4 +216,4 @@ A: 优化建议：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | 🎮 适用版本：Netch 1.9.7
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | 🎮 适用版本：Netch <!-- VERSION_START -->1.9.7<!-- VERSION_END -->

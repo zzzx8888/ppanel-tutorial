@@ -35,14 +35,19 @@
 
 ### 🌟 下载源列表
 
-| 下载源 | 类型 | 速度 | 稳定性 | 推荐度 |
-|-------|------|------|--------|--------|
-| [🚀 镜像加速 1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [⚡ 镜像加速 2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 镜像源 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [📦 官方 GitHub](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | 7.18.0 | [下载链接](https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 7.18.0 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 7.18.0 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 7.18.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 版本信息
-- **当前版本**：v6.60
+- **当前版本**：v<!-- VERSION_START -->7.18.0<!-- VERSION_END -->
 - **发布日期**：2024年11月
 - **文件大小**：约 15MB
 - **文件格式**：ZIP 压缩包
@@ -221,4 +226,4 @@ A: 优化建议：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | ⚡ 适用版本：v2rayN 6.60
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚡ 适用版本：v2rayN <!-- VERSION_START -->7.18.0<!-- VERSION_END -->

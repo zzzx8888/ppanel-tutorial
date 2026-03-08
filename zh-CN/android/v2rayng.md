@@ -30,18 +30,22 @@
 
 > ⚠️ **注意**：请从官方渠道下载，确保软件安全性
 
-| 下载源 | 类型 | 链接 |
-|--------|------|------|
-| 🏠 GitHub 官方 | APK | [v2rayNG_1.9.33_universal.apk](https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 🚀 加速镜像1 | APK | [下载地址](https://git.886.be/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 🚀 加速镜像2 | APK | [下载地址](https://gh.xxooo.cf/https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk) |
-| 📱 备用地址 | APK | [下载地址](https://dl.v2rayng.org/releases/latest/v2rayNG_1.8.12.apk) |
+<!-- DOWNLOAD_TABLE_START -->
+
+| 下载源 | 版本 | 说明 | 状态 |
+|--------|------|------|------|
+| GitHub Release | 2.0.13 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 2.0.13 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 2.0.13 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 2.0.13 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
+
+<!-- DOWNLOAD_TABLE_END -->
 
 ### 🛠️ 安装步骤
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 `v2rayNG_x.x.x.apk` 文件
+   - 下载 `<!-- FILENAME_START -->v2rayNG_2.0.13_universal.apk<!-- FILENAME_END -->` 文件
 
 2. **允许安装**
    - 进入手机 `设置` → `安全` → 开启 `未知来源应用安装`
@@ -181,5 +185,5 @@ A: 请确认：
 
 ---
 
-> 📅 最后更新：2025年7月10日 | 📱 适用版本：v2rayNG 1.9.33
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.0.13<!-- VERSION_END -->
 
