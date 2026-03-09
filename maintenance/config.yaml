@@ -25,13 +25,13 @@ apps:
       - path: "zh-CN/android/clash-meta-for-android.md"
         markers:
           version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
-          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          filename: "<!-- FILENAME_START -->`{}`<!-- FILENAME_END -->"
           download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
           last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
       - path: "en-US/android/clash-meta-for-android.md"
         markers:
           version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
-          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          filename: "<!-- FILENAME_START -->`{}`<!-- FILENAME_END -->"
           download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
           last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
 
@@ -44,7 +44,7 @@ apps:
       - path: "zh-CN/android/v2rayng.md"
         markers:
           version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
-          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          filename: "<!-- FILENAME_START -->`{}`<!-- FILENAME_END -->"
           download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
           last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
       - path: "en-US/android/v2rayng.md"
@@ -79,13 +79,13 @@ apps:
       - path: "zh-CN/android/sing-box.md"
         markers:
           version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
-          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          filename: "<!-- FILENAME_START -->`{}`<!-- FILENAME_END -->"
           download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
           last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
       - path: "en-US/android/sing-box.md"
         markers:
           version: "<!-- VERSION_START -->{}<!-- VERSION_END -->"
-          filename: "<!-- FILENAME_START -->{}<!-- FILENAME_END -->"
+          filename: "<!-- FILENAME_START -->`{}`<!-- FILENAME_END -->"
           download_table: "<!-- DOWNLOAD_TABLE_START -->\n{}\n<!-- DOWNLOAD_TABLE_END -->"
           last_updated: "<!-- UPDATE_TIME_START -->{}<!-- UPDATE_TIME_END -->"
 

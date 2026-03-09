@@ -56,7 +56,7 @@
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 `<!-- FILENAME_START -->cmfa-2.11.23-alpha-universal-release.apk<!-- FILENAME_END -->`
+   - 下载 <!-- FILENAME_START -->`cmfa-2.11.23-alpha-universal-release.apk`<!-- FILENAME_END -->
 
 2. **允许安装**
    - 设置 → 安全 → 开启"未知来源"

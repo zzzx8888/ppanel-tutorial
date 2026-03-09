@@ -72,7 +72,7 @@
 
 2. **Download & Install**
    - Choose appropriate download source
-   - Download `<!-- FILENAME_START -->SFA-1.13.2-legacy-android-5-universal.apk<!-- FILENAME_END -->` file to device
+   - Download <!-- FILENAME_START -->`SFA-1.13.2-legacy-android-5-universal.apk`<!-- FILENAME_END --> file to device
    - Tap file to begin installation
 
 3. **Grant Permissions**

@@ -37,7 +37,7 @@
 | GitHub Release | 2.0.13 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
 | 镜像加速1 (gh-proxy.org) | 2.0.13 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
 | 镜像加速2 (hk.gh-proxy.org) | 2.0.13 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | 2.0.13 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 2.0.13 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.13/v2rayNG_2.0.13_universal.apk) | ❌ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -45,7 +45,7 @@
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 `<!-- FILENAME_START -->v2rayNG_2.0.13_universal.apk<!-- FILENAME_END -->` 文件
+   - 下载 <!-- FILENAME_START -->`v2rayNG_2.0.13_universal.apk`<!-- FILENAME_END --> 文件
 
 2. **允许安装**
    - 进入手机 `设置` → `安全` → 开启 `未知来源应用安装`

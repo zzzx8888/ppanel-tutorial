@@ -56,7 +56,7 @@
 
 1. **Download Application**
    - Choose any download link above
-   - Download `<!-- FILENAME_START -->cmfa-2.11.23-alpha-universal-release.apk<!-- FILENAME_END -->`
+   - Download <!-- FILENAME_START -->`cmfa-2.11.23-alpha-universal-release.apk`<!-- FILENAME_END -->
 
 2. **Allow Installation**
    - Settings → Security → Enable "Unknown Sources"
