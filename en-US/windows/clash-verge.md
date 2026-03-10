@@ -35,7 +35,7 @@
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
 | GitHub Release | v2.4.6 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v2.4.6 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ❌ |
+| 镜像加速1 (gh-proxy.org) | v2.4.6 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
 | 镜像加速2 (hk.gh-proxy.org) | v2.4.6 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
 | 镜像加速3 (cdn.gh-proxy.org) | v2.4.6 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
 
@@ -190,4 +190,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-09<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-10<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->+
