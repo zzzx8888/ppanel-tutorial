@@ -119,7 +119,7 @@ zh-CN:
     path: zh-CN/android/README.md
     subItems:
       - title: v2rayNG
-        path: en-US/android/v2rayng.md
+        path: zh-CN/android/v2rayng.md
         icon: zh-CN/android/v2rayng.png
         updated_at: 2025-07-10
       - title: Surfboard

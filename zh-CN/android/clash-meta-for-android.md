@@ -86,7 +86,7 @@
 
 打开已安装的 Clash Meta，进入主界面：
 
-![应用启动界面](/upload/knowledge/zh-CN/android/b04c0c3001a8b2ffc81e58de8b927c3e.png)
+![应用启动界面](clash-meta-for-Android-01.png)
 
 > 💡 首次启动会要求授予网络权限，请点击"允许"
 
@@ -94,43 +94,43 @@
 
 点击"配置"标签，进入配置管理页面：
 
-![配置管理页面](/upload/knowledge/zh-CN/android/f5681639212da951348ffde20c4c8aab.jpg)
+![配置管理页面](clash-meta-for-Android-02.jpg)
 
 #### 📥 步骤三：导入配置
 
 点击右上角的"+"号，选择导入方式：
 
-![导入配置选项](/upload/knowledge/zh-CN/android/494564fe2ba85a2812364c7b1ef4014c.jpg)
+![导入配置选项](clash-meta-for-Android-03.jpg)
 
 #### 📝 步骤四：配置信息
 
 输入配置信息（订阅链接或配置文件）：
 
-![配置信息填写](/upload/knowledge/zh-CN/android/355c5f14380cba04f6485451ffa7817b.jpg)
+![配置信息填写](clash-meta-for-Android-04.jpg)
 
 #### ⏳ 步骤五：等待加载
 
 配置导入后，等待节点信息加载完成：
 
-![配置加载过程](/upload/knowledge/zh-CN/android/ed69d297b8e245968ae6a78e8675c650.jpg)
+![配置加载过程](clash-meta-for-Android-05.jpg)
 
 #### 🌐 步骤六：选择节点
 
 在节点列表中选择合适的服务器：
 
-![节点选择界面](/upload/knowledge/zh-CN/android/528becdacd8c2933a2ff7f2ff5d00b52.jpg)
+![节点选择界面](clash-meta-for-Android-06.jpg)
 
 #### ✅ 步骤七：确认配置
 
 检查配置信息，确认无误后保存：
 
-![配置确认界面](/upload/knowledge/zh-CN/android/468b7b249b0015b1fbc96e02276608ab.jpg)
+![配置确认界面](clash-meta-for-Android-07.jpg)
 
 #### 🚀 步骤八：启动服务
 
 返回主界面，开启代理服务：
 
-![连接状态显示](/upload/knowledge/zh-CN/android/f7e9ba59f050f151e8a3c6d4b48922e5.jpg)
+![连接状态显示](clash-meta-for-Android-08.jpg)
 
 ---
 
