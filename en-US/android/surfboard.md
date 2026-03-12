@@ -43,10 +43,10 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | mobile-2.28.0 | [下载链接](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | mobile-2.28.0 | [下载链接](https://gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | mobile-2.28.0 | [下载链接](https://hk.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | mobile-2.28.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.0/mobile-universal-release.apk) | ✅ |
+| GitHub Release | mobile-2.28.1 | [下载链接](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.1/mobile-universal-release.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | mobile-2.28.1 | [下载链接](https://gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.1/mobile-universal-release.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | mobile-2.28.1 | [下载链接](https://hk.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.1/mobile-universal-release.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | mobile-2.28.1 | [下载链接](https://cdn.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.28.1/mobile-universal-release.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -382,4 +382,4 @@ tcp-connection = true
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-11<!-- UPDATE_TIME_END --> | 🏄 Compatible Version: Surfboard <!-- VERSION_START -->mobile-2.28.0<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-12<!-- UPDATE_TIME_END --> | 🏄 Compatible Version: Surfboard <!-- VERSION_START -->mobile-2.28.1<!-- VERSION_END -->
