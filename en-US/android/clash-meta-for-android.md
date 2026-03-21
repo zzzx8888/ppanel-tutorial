@@ -45,10 +45,10 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | v2.11.24 | [下载链接](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v2.11.24 | [下载链接](https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v2.11.24 | [下载链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v2.11.24 | [下载链接](https://cdn.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) | ✅ |
+| GitHub Release | Prerelease-alpha | [下载链接](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.24-alpha-universal-release.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | Prerelease-alpha | [下载链接](https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.24-alpha-universal-release.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | Prerelease-alpha | [下载链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.24-alpha-universal-release.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | Prerelease-alpha | [下载链接](https://cdn.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.24-alpha-universal-release.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -56,7 +56,7 @@
 
 1. **Download Application**
    - Choose any download link above
-   - Download <!-- FILENAME_START -->`cmfa-2.11.24-meta-universal-release.apk`<!-- FILENAME_END -->
+   - Download <!-- FILENAME_START -->`cmfa-2.11.24-alpha-universal-release.apk`<!-- FILENAME_END -->
 
 2. **Allow Installation**
    - Settings → Security → Enable "Unknown Sources"
@@ -442,4 +442,4 @@ external-controller: 127.0.0.1:9090
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-20<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->v2.11.24<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-21<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->
