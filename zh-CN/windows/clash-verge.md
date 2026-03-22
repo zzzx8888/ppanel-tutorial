@@ -1,7 +1,7 @@
 # ⚡ Clash Verge - 现代化代理工具
 
 > 🚀 **强大的跨平台代理客户端** | 基于 Clash 内核，提供现代化的图形界面
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-21<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.4.6<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-03-22<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.4.7<!-- VERSION_END -->
 
 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) 是基于 Clash 内核的现代化 GUI 图形客户端，支持 Windows、Linux、macOS 多平台，具备强大的分流规则功能和丰富的代理协议支持。
 
@@ -35,16 +35,16 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | v2.4.6 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v2.4.6 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v2.4.6 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v2.4.6 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) | ✅ |
+| GitHub Release | v2.4.7 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v2.4.7 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v2.4.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v2.4.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 版本信息
 
-- **当前版本**：<!-- VERSION_START -->v2.4.6<!-- VERSION_END -->
+- **当前版本**：<!-- VERSION_START -->v2.4.7<!-- VERSION_END -->
 - **文件大小**：约 80MB
 - **文件类型**：Windows 安装程序 (.exe)
 - **数字签名**：✅ 已签名
