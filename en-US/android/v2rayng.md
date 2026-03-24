@@ -299,7 +299,7 @@ A: Power optimization:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-23<!-- UPDATE_TIME_END --> | 🚀 Compatible Version: v2rayNG <!-- VERSION_START -->2.0.15<!-- VERSION_END -->+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-03-24<!-- UPDATE_TIME_END --> | 🚀 Compatible Version: v2rayNG <!-- VERSION_START -->2.0.15<!-- VERSION_END -->+
 
 ![Image 5](v2rayng-05.jpg)
 
