@@ -57,10 +57,10 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | v1.13.8 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.13.8/SFA-1.13.8-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v1.13.8 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.8/SFA-1.13.8-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v1.13.8 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.8/SFA-1.13.8-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v1.13.8 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.8/SFA-1.13.8-legacy-android-5-universal.apk) | ✅ |
+| GitHub Release | v1.13.9 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.13.9/SFA-1.13.9-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v1.13.9 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.9/SFA-1.13.9-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v1.13.9 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.9/SFA-1.13.9-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v1.13.9 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.9/SFA-1.13.9-legacy-android-5-universal.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -72,7 +72,7 @@
 
 2. **Download & Install**
    - Choose appropriate download source
-   - Download <!-- FILENAME_START -->`SFA-1.13.8-legacy-android-5-universal.apk`<!-- FILENAME_END --> file to device
+   - Download <!-- FILENAME_START -->`SFA-1.13.9-legacy-android-5-universal.apk`<!-- FILENAME_END --> file to device
    - Tap file to begin installation
 
 3. **Grant Permissions**
@@ -508,4 +508,4 @@ A: Check points:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-04-20<!-- UPDATE_TIME_END --> | 📦 Compatible Version: sing-box <!-- VERSION_START -->v1.13.8<!-- VERSION_END --> (SFA)
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-04-21<!-- UPDATE_TIME_END --> | 📦 Compatible Version: sing-box <!-- VERSION_START -->v1.13.9<!-- VERSION_END --> (SFA)
