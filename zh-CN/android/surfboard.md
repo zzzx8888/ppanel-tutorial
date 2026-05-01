@@ -182,4 +182,4 @@ A: 通过以下渠道：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-04-30<!-- UPDATE_TIME_END --> | 🏄 适用版本：Surfboard <!-- VERSION_START -->mobile-2.29.6<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-01<!-- UPDATE_TIME_END --> | 🏄 适用版本：Surfboard <!-- VERSION_START -->mobile-2.29.6<!-- VERSION_END -->
