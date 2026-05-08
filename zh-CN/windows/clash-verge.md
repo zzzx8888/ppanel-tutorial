@@ -1,7 +1,7 @@
 # ⚡ Clash Verge - 现代化代理工具
 
 > 🚀 **强大的跨平台代理客户端** | 基于 Clash 内核，提供现代化的图形界面
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-07<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.4.7<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-08<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.4.7<!-- VERSION_END -->
 
 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) 是基于 Clash 内核的现代化 GUI 图形客户端，支持 Windows、Linux、macOS 多平台，具备强大的分流规则功能和丰富的代理协议支持。
 
