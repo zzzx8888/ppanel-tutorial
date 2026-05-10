@@ -223,4 +223,4 @@ A: 解决方案：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-09<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-10<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->
