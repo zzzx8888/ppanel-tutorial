@@ -34,10 +34,10 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | 2.0.18 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18-fdroid_universal.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | 2.0.18 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18-fdroid_universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | 2.0.18 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18-fdroid_universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | 2.0.18 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18-fdroid_universal.apk) | ✅ |
+| GitHub Release | 2.1.7 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 2.1.7 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 2.1.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 2.1.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.7/v2rayNG_2.1.7-fdroid_universal.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -45,7 +45,7 @@
 
 1. **下载应用**
    - 选择上述任一下载链接
-   - 下载 <!-- FILENAME_START -->`v2rayNG_2.0.18-fdroid_universal.apk`<!-- FILENAME_END --> 文件
+   - 下载 <!-- FILENAME_START -->`v2rayNG_2.1.7-fdroid_universal.apk`<!-- FILENAME_END --> 文件
 
 2. **允许安装**
    - 进入手机 `设置` → `安全` → 开启 `未知来源应用安装`
@@ -185,5 +185,5 @@ A: 请确认：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-11<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.0.18<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-12<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.1.7<!-- VERSION_END -->
 
