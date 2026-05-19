@@ -46,7 +46,7 @@
 | GitHub Release | mobile-2.30.0 | [下载链接](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.30.0/mobile-universal-release.apk) | ✅ |
 | 镜像加速1 (gh-proxy.org) | mobile-2.30.0 | [下载链接](https://gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.30.0/mobile-universal-release.apk) | ✅ |
 | 镜像加速2 (hk.gh-proxy.org) | mobile-2.30.0 | [下载链接](https://hk.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.30.0/mobile-universal-release.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | mobile-2.30.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.30.0/mobile-universal-release.apk) | ❌ |
+| 镜像加速3 (cdn.gh-proxy.org) | mobile-2.30.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/getsurfboard/surfboard/releases/download/mobile-2.30.0/mobile-universal-release.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -182,4 +182,4 @@ A: 通过以下渠道：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-18<!-- UPDATE_TIME_END --> | 🏄 适用版本：Surfboard <!-- VERSION_START -->mobile-2.30.0<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-05-19<!-- UPDATE_TIME_END --> | 🏄 适用版本：Surfboard <!-- VERSION_START -->mobile-2.30.0<!-- VERSION_END -->
