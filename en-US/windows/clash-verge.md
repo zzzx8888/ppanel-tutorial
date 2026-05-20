@@ -34,16 +34,16 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | v2.4.7 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v2.4.7 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v2.4.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v2.4.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe) | ✅ |
+| GitHub Release | v2.5.0 | [下载链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v2.5.0 | [下载链接](https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v2.5.0 | [下载链接](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v2.5.0 | [下载链接](https://cdn.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 Version Information
 
-- **Current Version**: <!-- VERSION_START -->v2.4.7<!-- VERSION_END -->
+- **Current Version**: <!-- VERSION_START -->v2.5.0<!-- VERSION_END -->
 - **File Size**: ~80MB
 - **File Type**: Windows Installer (.exe)
 - **Digital Signature**: ✅ Signed
@@ -190,4 +190,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-05-19<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.4.7<!-- VERSION_END -->+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-05-20<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.5.0<!-- VERSION_END -->+

@@ -382,4 +382,4 @@ tcp-connection = true
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-05-19<!-- UPDATE_TIME_END --> | 🏄 Compatible Version: Surfboard <!-- VERSION_START -->mobile-2.30.0<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-05-20<!-- UPDATE_TIME_END --> | 🏄 Compatible Version: Surfboard <!-- VERSION_START -->mobile-2.30.0<!-- VERSION_END -->
