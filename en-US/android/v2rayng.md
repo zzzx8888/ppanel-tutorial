@@ -37,16 +37,16 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | 2.1.8 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.1.8/v2rayNG_2.1.8-fdroid_universal.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | 2.1.8 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.8/v2rayNG_2.1.8-fdroid_universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | 2.1.8 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.8/v2rayNG_2.1.8-fdroid_universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | 2.1.8 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.1.8/v2rayNG_2.1.8-fdroid_universal.apk) | ✅ |
+| GitHub Release | 2.2.1 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.2.1/v2rayNG_2.2.1-fdroid_universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 2.2.1 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.2.1/v2rayNG_2.2.1-fdroid_universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 2.2.1 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.2.1/v2rayNG_2.2.1-fdroid_universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 2.2.1 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.2.1/v2rayNG_2.2.1-fdroid_universal.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 Version Information
 
-- **Latest Version**: v<!-- VERSION_START -->2.1.8<!-- VERSION_END -->
+- **Latest Version**: v<!-- VERSION_START -->2.2.1<!-- VERSION_END -->
 - **File Size**: ~35MB
 - **Architecture**: Universal (ARM + ARM64 + x86)
 - **Minimum Android**: 5.0 (API 21)
@@ -299,7 +299,7 @@ A: Power optimization:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-05-31<!-- UPDATE_TIME_END --> | 🚀 Compatible Version: v2rayNG <!-- VERSION_START -->2.1.8<!-- VERSION_END -->+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-01<!-- UPDATE_TIME_END --> | 🚀 Compatible Version: v2rayNG <!-- VERSION_START -->2.2.1<!-- VERSION_END -->+
 
 ![Image 5](v2rayng-05.jpg)
 
