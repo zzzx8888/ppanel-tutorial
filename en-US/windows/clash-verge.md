@@ -190,4 +190,4 @@ A: Try these solutions:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-03<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.5.1<!-- VERSION_END -->+
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-04<!-- UPDATE_TIME_END --> | ⚡ Compatible Version: Clash Verge <!-- VERSION_START -->v2.5.1<!-- VERSION_END -->+
