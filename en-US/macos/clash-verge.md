@@ -44,4 +44,4 @@ Starting from macOS 10.15, due to enhanced system security, you may receive "Dev
 ![图八](Clash-Verge-08.png)
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-06<!-- UPDATE_TIME_END --> | ⚔️ Applicable Version: Clash Verge <!-- VERSION_START -->v2.5.1<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-07<!-- UPDATE_TIME_END --> | ⚔️ Applicable Version: Clash Verge <!-- VERSION_START -->v2.5.1<!-- VERSION_END -->
