@@ -508,4 +508,4 @@ A: Check points:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-10<!-- UPDATE_TIME_END --> | 📦 Compatible Version: sing-box <!-- VERSION_START -->v1.13.13<!-- VERSION_END --> (SFA)
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-11<!-- UPDATE_TIME_END --> | 📦 Compatible Version: sing-box <!-- VERSION_START -->v1.13.13<!-- VERSION_END --> (SFA)

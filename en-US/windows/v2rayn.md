@@ -258,4 +258,4 @@ A: Backup method:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-10<!-- UPDATE_TIME_END --> | ⚡ Applicable Version: v2rayN <!-- VERSION_START -->7.22.6<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-06-11<!-- UPDATE_TIME_END --> | ⚡ Applicable Version: v2rayN <!-- VERSION_START -->7.22.6<!-- VERSION_END -->
