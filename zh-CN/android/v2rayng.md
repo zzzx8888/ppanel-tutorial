@@ -185,5 +185,5 @@ A: 请确认：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-06-22<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.2.5<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-06-23<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.2.5<!-- VERSION_END -->
 
