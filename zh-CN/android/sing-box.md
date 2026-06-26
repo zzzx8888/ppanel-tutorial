@@ -57,10 +57,10 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | v1.13.13 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.13.13/SFA-1.13.13-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速1 (gh-proxy.org) | v1.13.13 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.13/SFA-1.13.13-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v1.13.13 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.13/SFA-1.13.13-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v1.13.13 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.13/SFA-1.13.13-legacy-android-5-universal.apk) | ✅ |
+| GitHub Release | v1.13.14 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速1 (gh-proxy.org) | v1.13.14 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v1.13.14 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | v1.13.14 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.13.14/SFA-1.13.14-legacy-android-5-universal.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -72,7 +72,7 @@
 
 2. **下载安装**
    - 选择合适的下载源
-   - 下载 <!-- FILENAME_START -->`SFA-1.13.13-legacy-android-5-universal.apk`<!-- FILENAME_END --> 文件到设备
+   - 下载 <!-- FILENAME_START -->`SFA-1.13.14-legacy-android-5-universal.apk`<!-- FILENAME_END --> 文件到设备
    - 点击文件开始安装
 
 3. **权限授予**
@@ -285,4 +285,4 @@ A: 排查步骤：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-06-25<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.13.13<!-- VERSION_END --> (SFA)
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-06-26<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.13.14<!-- VERSION_END --> (SFA)
