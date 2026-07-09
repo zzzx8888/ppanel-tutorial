@@ -442,4 +442,4 @@ external-controller: 127.0.0.1:9090
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-07-08<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->v2.11.31<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-07-09<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->v2.11.31<!-- VERSION_END -->
