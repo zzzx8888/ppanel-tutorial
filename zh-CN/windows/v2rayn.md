@@ -39,15 +39,15 @@
 
 | 下载源 | 版本 | 说明 | 状态 |
 |--------|------|------|------|
-| GitHub Release | 7.23.4 | [下载链接](https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64.zip) | ✅ |
-| 镜像加速1 (gh-proxy.org) | 7.23.4 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64.zip) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | 7.23.4 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64.zip) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | 7.23.4 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.23.4/v2rayN-windows-64.zip) | ✅ |
+| GitHub Release | 7.24.4 | [下载链接](https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速1 (gh-proxy.org) | 7.24.4 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 7.24.4 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip) | ✅ |
+| 镜像加速3 (cdn.gh-proxy.org) | 7.24.4 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
 ### 📋 版本信息
-- **当前版本**：v<!-- VERSION_START -->7.23.4<!-- VERSION_END -->
+- **当前版本**：v<!-- VERSION_START -->7.24.4<!-- VERSION_END -->
 - **发布日期**：2024年11月
 - **文件大小**：约 15MB
 - **文件格式**：ZIP 压缩包
@@ -226,4 +226,4 @@ A: 优化建议：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-07-30<!-- UPDATE_TIME_END --> | ⚡ 适用版本：v2rayN <!-- VERSION_START -->7.23.4<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-07-31<!-- UPDATE_TIME_END --> | ⚡ 适用版本：v2rayN <!-- VERSION_START -->7.24.4<!-- VERSION_END -->
