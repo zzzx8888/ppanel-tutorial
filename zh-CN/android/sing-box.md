@@ -285,4 +285,4 @@ A: 排查步骤：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-08-06<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.13.16<!-- VERSION_END --> (SFA)
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-08-07<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.13.16<!-- VERSION_END --> (SFA)
