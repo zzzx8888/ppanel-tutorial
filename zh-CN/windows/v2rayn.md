@@ -226,4 +226,4 @@ A: 优化建议：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-10-26<!-- UPDATE_TIME_END --> | ⚡ 适用版本：v2rayN <!-- VERSION_START -->7.25.6<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-10-27<!-- UPDATE_TIME_END --> | ⚡ 适用版本：v2rayN <!-- VERSION_START -->7.25.6<!-- VERSION_END -->
