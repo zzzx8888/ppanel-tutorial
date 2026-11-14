@@ -336,4 +336,4 @@ A: 日志查看：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-13<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.5.10<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-14<!-- UPDATE_TIME_END --> | ⚔️ 适用版本：Clash Verge <!-- VERSION_START -->v2.5.10<!-- VERSION_END -->
