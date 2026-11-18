@@ -59,8 +59,8 @@
 |--------|------|------|------|
 | GitHub Release | v1.14.4 | [下载链接](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ✅ |
 | 镜像加速1 (gh-proxy.org) | v1.14.4 | [下载链接](https://gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | v1.14.4 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | v1.14.4 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | v1.14.4 | [下载链接](https://hk.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ❌ |
+| 镜像加速3 (cdn.gh-proxy.org) | v1.14.4 | [下载链接](https://cdn.gh-proxy.org/https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | ❌ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -285,4 +285,4 @@ A: 排查步骤：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-17<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.14.4<!-- VERSION_END --> (SFA)
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-18<!-- UPDATE_TIME_END --> | 📦 适用版本：sing-box <!-- VERSION_START -->v1.14.4<!-- VERSION_END --> (SFA)

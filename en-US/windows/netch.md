@@ -42,8 +42,8 @@
 |--------|------|------|------|
 | GitHub Release | 1.9.7 | [下载链接](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
 | 镜像加速1 (gh-proxy.org) | 1.9.7 | [下载链接](https://gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | 1.9.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
-| 镜像加速3 (cdn.gh-proxy.org) | 1.9.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ✅ |
+| 镜像加速2 (hk.gh-proxy.org) | 1.9.7 | [下载链接](https://hk.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ❌ |
+| 镜像加速3 (cdn.gh-proxy.org) | 1.9.7 | [下载链接](https://cdn.gh-proxy.org/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) | ❌ |
 
 <!-- DOWNLOAD_TABLE_END -->
 
@@ -216,4 +216,4 @@ A: Optimization suggestions:
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-11-17<!-- UPDATE_TIME_END --> | 🎮 Applicable Version: Netch <!-- VERSION_START -->1.9.7<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-11-18<!-- UPDATE_TIME_END --> | 🎮 Applicable Version: Netch <!-- VERSION_START -->1.9.7<!-- VERSION_END -->
