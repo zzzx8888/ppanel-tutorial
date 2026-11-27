@@ -47,7 +47,7 @@
 |--------|------|------|------|
 | GitHub Release | Prerelease-alpha | [下载链接](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.37-alpha-universal-release.apk) | ✅ |
 | 镜像加速1 (gh-proxy.org) | Prerelease-alpha | [下载链接](https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.37-alpha-universal-release.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | Prerelease-alpha | [下载链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.37-alpha-universal-release.apk) | ❌ |
+| 镜像加速2 (hk.gh-proxy.org) | Prerelease-alpha | [下载链接](https://hk.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.37-alpha-universal-release.apk) | ✅ |
 | 镜像加速3 (cdn.gh-proxy.org) | Prerelease-alpha | [下载链接](https://cdn.gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.37-alpha-universal-release.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
@@ -442,4 +442,4 @@ external-controller: 127.0.0.1:9090
 
 ---
 
-> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-11-26<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->
+> 📅 Last Updated: <!-- UPDATE_TIME_START -->2026-11-27<!-- UPDATE_TIME_END --> | ⚔️ Compatible Version: Clash Meta for Android <!-- VERSION_START -->Prerelease-alpha<!-- VERSION_END -->

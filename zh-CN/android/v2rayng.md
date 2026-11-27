@@ -36,7 +36,7 @@
 |--------|------|------|------|
 | GitHub Release | 2.3.15 | [下载链接](https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_universal.apk) | ✅ |
 | 镜像加速1 (gh-proxy.org) | 2.3.15 | [下载链接](https://gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_universal.apk) | ✅ |
-| 镜像加速2 (hk.gh-proxy.org) | 2.3.15 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_universal.apk) | ❌ |
+| 镜像加速2 (hk.gh-proxy.org) | 2.3.15 | [下载链接](https://hk.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_universal.apk) | ✅ |
 | 镜像加速3 (cdn.gh-proxy.org) | 2.3.15 | [下载链接](https://cdn.gh-proxy.org/https://github.com/2dust/v2rayNG/releases/download/2.3.15/v2rayNG_2.3.15-fdroid_universal.apk) | ✅ |
 
 <!-- DOWNLOAD_TABLE_END -->
@@ -185,5 +185,5 @@ A: 请确认：
 
 ---
 
-> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-26<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.3.15<!-- VERSION_END -->
+> 📅 最后更新：<!-- UPDATE_TIME_START -->2026-11-27<!-- UPDATE_TIME_END --> | 📱 适用版本：v2rayNG <!-- VERSION_START -->2.3.15<!-- VERSION_END -->
 
